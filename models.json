@@ -467,6 +467,19 @@
     "implementation": "Runway ML",
     "Notes": ""
   }
+  {
+    "name": "E-shop Clothing Model",
+    "download_url": "https://mailustceducn-my.sharepoint.com/personal/frl1996_mail_ustc_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrl1996%5Fmail%5Fustc%5Fedu%5Fcn%2FDocuments%2FDGP%5FCVPR22%2Fpretrained%2Fpretrained%5Fmodels%2Ezip&parent=%2Fpersonal%2Ffrl1996%5Fmail%5Fustc%5Fedu%5Fcn%2FDocuments%2FDGP%5FCVPR22%2Fpretrained&ga=1",
+    "author": "Ruili Feng",
+    "author_url": "https://github.com/RuiLiFeng",
+    "dataset": "E-Shop Clothing Model dataset newly collected by the authors in CVPR22 paper 'Weakly Supervised High-Fidelity Clothing Model Generation'",
+    "source_url": "https://github.com/RuiLiFeng/Deep-Generative-Projection",
+    "resolution": "512x512",
+    "config": "f",
+    "license": "Unknown",
+    "implementation": "Runway ML",
+    "Notes": "The dataset (180k images) can be download at the authors Github Repo; Detailed information about the dataset and pretrained StyleGAN2 can be found in the CVPR paper; We also provide pretrained encoders for this StyleGAN2."
+  }
 ]
 
 
